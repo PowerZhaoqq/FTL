@@ -1,0 +1,9 @@
+.history/
+# 忽略所有 .log 文件
+#*.log
+
+# 忽略特定目录
+#history/
+
+# 忽略除某文件外的所有文件
+#!/important.log
